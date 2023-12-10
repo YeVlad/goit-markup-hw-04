@@ -388,6 +388,11 @@ address {
   padding: 100px 0;
 }
 
+.down-container {
+  display: flex;
+  gap: 120px;
+}
+
 .down-word {
   display: inline-block;
   margin-bottom: 16px;
@@ -401,6 +406,24 @@ address {
   line-height: 24px;
   letter-spacing: 0.32px;
   max-width: 264px;
+}
+
+.text-social {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  margin-bottom: 16px;
+}
+
+.social-media-worker-place.fotter-place {
+  gap: 16px;
+}
+
+.icon-worker-media.fotter-icon {
+  width: 24px;
+  height: 24px;
 }
 
 /***********/
