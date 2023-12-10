@@ -168,7 +168,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero_image.png);
+    url(../images/hero_image.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
