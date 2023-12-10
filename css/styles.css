@@ -439,7 +439,7 @@ address {
   padding: 100px 0;
 }
 
-.down-container {
+.container.down-container {
   display: flex;
   align-items: baseline;
 }
