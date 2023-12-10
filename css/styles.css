@@ -483,6 +483,7 @@ address {
   align-items: center;
 }
 
+.social-media-worker-link.down-green:focus,
 .social-media-worker-link.down-green:hover {
   background-color: #31d0aa;
 }
